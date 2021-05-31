@@ -43,6 +43,10 @@
         ruby video_dictation.rb 
    
   But, first, make sure you have video files in the videos folder. 
+  
+  And after that, you can already have a copy of the video transcription in the file ```transcript_<audio_id>.txt``` that will be auto-generated. 
+  
+  If you need help at debugging, email me at [nico.wasin@gmail.com]. 
     
    
   
