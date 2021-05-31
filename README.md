@@ -3,7 +3,8 @@
 
 ### INSTALLATION
   Before cloning this reposity, check the following on your development environment:
-     Any version of ```Ruby``` not later than 2.5.
+     
+   Any version of ```Ruby``` not later than 2.5.
      
   Clone this repository to your local machine using the command:
     
