@@ -33,9 +33,9 @@
      
     request.body_stream = File.open("/Users/laboteam/Documents/automate_video_workflow/audios/#{audio_file}")
     
-   FIND these 4 specific line of codes in the file ```video_transcription.rb``` and change the following 
-     <br>laboteam -> change it with your PC name
-     <br>Documents -> change it with your directory (i.e. Downloads, Documents, Desktop, etc) where you cloned this repository. 
+   FIND these 4 specific line of codes in the file ```video_transcription.rb``` and change the following <br>
+      1. **laboteam** -> change it with your PC name. <br>
+      2. **Documents** -> change it with your directory (i.e. Downloads, Documents, Desktop, etc) where you cloned this repository. 
     
 ### Usage
   Once set up is done, run the command 
