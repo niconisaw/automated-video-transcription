@@ -12,8 +12,7 @@
       git clone https://github.com/niconisaw/automated-video-transcription 
       
 #### Modification of ```API-Key``` 
-  In the ```class Dictation```, 3 out of 4 methods in it will require you to provide your API-Key. 
-  <br> <b>API-Key</b> is auto - generated once you created your AssemblyAI account, regardless if its free trial or already paid. 
+  <br> <b>API-Key</b> is auto - generated once you created your AssemblyAI account, regardless if its for free trial or already paid services. 
   <br>Put it as the ```value``` of the ```key``` titled ```authorization```.
   <br> The following methods inside the ```class Dictation``` will be requiring you to provide that API-Key
   1. ```upload_to_cloud```
