@@ -5,14 +5,14 @@
   Before cloning this reposity, check the following on your development environment.
    1. Any version of ```Ruby``` not later than 2.5.
    2. An [AssemblyAI](https://app.assemblyai.com/login/) Account.
-      <br><b>NOTE:</b> There is free trial to test their end points and also paid version to get the best of the <b>Speech-to-Text API</b>. 
+      <br><b>NOTE:</b> There is free trial to test their end points and also paid version to get the best out of their <b>Speech-to-Text API</b>. 
      
   Clone this repository to your local machine using the command.
     
       git clone https://github.com/niconisaw/automated-video-transcription 
       
 #### Modification of ```API-Key``` 
-  <b>API-Key</b> is auto - generated once you created your AssemblyAI account, regardless if its for free trial or already paid services. 
+  <b>API-Key</b> is auto - generated once you created your AssemblyAI account, regardless if its free trial or already a paid service. 
   <br>Put it as the ```value``` of the ```key``` titled ```authorization```.
   <br> The following methods inside the ```class Dictation``` will be requiring you to provide that API-Key
   1. ```upload_to_cloud```
@@ -46,7 +46,7 @@
   
   And after that, you can already have a copy of the video transcription in the file ```transcript_<audio_id>.txt``` that will be auto-generated. 
   
-  If you need help at debugging, email me at [nico.wasin@gmail.com]. 
+  If you need help at debugging, email me at nico.wasin@gmail.com. 
     
    
   
